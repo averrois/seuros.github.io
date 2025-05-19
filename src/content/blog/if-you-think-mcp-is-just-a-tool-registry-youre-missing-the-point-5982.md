@@ -1,6 +1,6 @@
 ---
 title: "If You Think MCP Is Just a Tool Registry, You’re Missing the Point"
-slug: "if-you-think-mcp-is-just-a-tool-registry-youre-missing-the-point-5982"
+slug: "if-you-think-mcp-is-just-a-tool-registry-you-are-missing-the-point-5982"
 pubDate: 2025-05-06T12:05:26.469Z
 description: "TL;DR: If you think Model Context Protocol (MCP) is just a boring tool registry, think again. It’s..."
 cover_image: "/img/if-you-think-mcp-is-just-a-tool-registry-youre-missing-the-point-5982/cover-https-3a-2f-2fdev-to-uploads-s3-amazonaws-com-2fuploads-2farticles-2f6d0vfswfzmmtth0y1uov.png"
