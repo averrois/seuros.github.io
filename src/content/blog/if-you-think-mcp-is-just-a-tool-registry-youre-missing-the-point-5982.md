@@ -96,4 +96,3 @@ If you treat it like just another plugin system, you’re missing the point—an
 So the next time someone tells you MCP is “just a registry,” go ahead and roll your eyes. Then explain, calmly, that you’d rather not hand a toddler a loaded API ever again.
 
 For more in-depth info, check out the [official MCP documentation](https://modelcontextprotocol.io/introduction). Happy hacking.
-

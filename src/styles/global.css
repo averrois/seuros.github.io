@@ -1,1 +1,5 @@
 @import "flowbite/src/themes/default";
+
+a {
+  text-decoration: none !important;
+}
