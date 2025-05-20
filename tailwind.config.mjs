@@ -8,7 +8,7 @@ export default {
     extend: {},
   },
   plugins: [
-    require("@tailwindcss/typography"),
+    require("flowbite/plugin"),
     require("flowbite-typography")
   ],
 };
